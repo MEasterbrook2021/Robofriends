@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MEasterbrook2021/Robofriends/static/css/main.27103c4a.css",
+    "main.js": "/MEasterbrook2021/Robofriends/static/js/main.783c14eb.js",
+    "static/js/787.32032a02.chunk.js": "/MEasterbrook2021/Robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/Aquire-BW0ox.otf": "/MEasterbrook2021/Robofriends/static/media/Aquire-BW0ox.a37a828dd20a35dc68d2.otf",
+    "index.html": "/MEasterbrook2021/Robofriends/index.html",
+    "main.27103c4a.css.map": "/MEasterbrook2021/Robofriends/static/css/main.27103c4a.css.map",
+    "main.783c14eb.js.map": "/MEasterbrook2021/Robofriends/static/js/main.783c14eb.js.map",
+    "787.32032a02.chunk.js.map": "/MEasterbrook2021/Robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27103c4a.css",
+    "static/js/main.783c14eb.js"
+  ]
+}
