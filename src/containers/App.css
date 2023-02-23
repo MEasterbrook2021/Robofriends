@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Aquire';
+    src: url('Aquire-BW0ox.otf');
+}
+
+h1 {
+    font-family: Aquire;
+    font-weight: 200;
+    color: #0ccac4;
+    font-size: 3rem;
+}
